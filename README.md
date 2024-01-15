@@ -38,3 +38,6 @@ Photos du projet
 <img width="1440" alt="Capture d’écran 2023-03-24 à 16 45 18" src="https://user-images.githubusercontent.com/115542526/227730612-06dc384e-9c54-47fe-9e8c-ee5f3bbed2dd.png">
 <img width="1440" alt="Capture d’écran 2023-03-24 à 16 45 28" src="https://user-images.githubusercontent.com/115542526/227730623-9f2eb602-84db-474e-94f4-3ff57fd863b2.png">
 <img width="1440" alt="Capture d’écran 2023-03-24 à 16 48 27" src="https://user-images.githubusercontent.com/115542526/227730631-554d93d4-beba-44b2-90cc-ab802e161096.png">
+
+lien du front Kalaxy:
+https://github.com/CindyBestaven/PC-nantes-meubles-team-rootroot--front
